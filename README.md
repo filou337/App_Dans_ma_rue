@@ -6,6 +6,7 @@ Objectif : **analyser, cartographier et suivre les anomalies signalées dans l�
 ---
 
 ## 📊 Aperçu du projet
+<img width="1533" height="857" alt="image" src="https://github.com/user-attachments/assets/1dea1512-3596-4668-a884-e3982eb38f00" />
 
 - **Type de projet** : Data Visualisation / Business Intelligence  
 - **Outil principal** : Power BI Desktop  
